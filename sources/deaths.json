@@ -1,0 +1,10 @@
+{
+    "2014": {"San Salvador": 1200, "La Libertad": 800, "Santa Ana": 600, "Sonsonate": 500, "San Miguel": 900},
+    "2015": {"San Salvador": 1300, "La Libertad": 850, "Santa Ana": 620, "Sonsonate": 510, "San Miguel": 950},
+    "2016": {"San Salvador": 1250, "La Libertad": 820, "Santa Ana": 610, "Sonsonate": 505, "San Miguel": 910},
+    "2017": {"San Salvador": 1100, "La Libertad": 790, "Santa Ana": 590, "Sonsonate": 490, "San Miguel": 870},
+    "2018": {"San Salvador": 1000, "La Libertad": 700, "Santa Ana": 560, "Sonsonate": 470, "San Miguel": 820},
+    "2019": {"San Salvador": 800, "La Libertad": 620, "Santa Ana": 500, "Sonsonate": 430, "San Miguel": 750},
+    "2020": {"San Salvador": 600, "La Libertad": 500, "Santa Ana": 450, "Sonsonate": 400, "San Miguel": 600}
+  }
+  
